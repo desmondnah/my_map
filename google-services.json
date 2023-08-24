@@ -1,0 +1,771 @@
+{
+  "project_info": {
+    "project_number": "298811971218",
+    "firebase_url": "https://mca-uat.firebaseio.com",
+    "project_id": "mca-uat",
+    "storage_bucket": "mca-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:ea5bbbe3507788e7",
+        "android_client_info": {
+          "package_name": "com.channelnewsasia.mcbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-5cvg2ie7ffqt240bukf0pmbh7birbc9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.channelnewsasia.mcbeta",
+            "certificate_hash": "ad12310179771d085f9ef9cc51a2b5b0458652d7"
+          }
+        },
+        {
+          "client_id": "298811971218-snbq2i4nda4319grtc9uqaomkpfiuupr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.channelnewsasia.mcbeta",
+            "certificate_hash": "e8bb569affed91fcdb44e3b8ea7f4046aeae707b"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:941ec17ed28aef3b",
+        "android_client_info": {
+          "package_name": "com.mediacorp.mobilesso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-8ucb3h3v8smm8d7sdad08p2vpotsdnps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediacorp.mobilesso",
+            "certificate_hash": "ae0d8b45390b2b7c2357aa39621f0c44d8cb72c3"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:9d95b3804be88778",
+        "android_client_info": {
+          "package_name": "com.mediacorp.mobilessosample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-29i97rpo5bquuvugcs7bcvt1mjn3at9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediacorp.mobilessosample",
+            "certificate_hash": "ae0d8b45390b2b7c2357aa39621f0c44d8cb72c3"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:5145cdd8e61c7ed847384b",
+        "android_client_info": {
+          "package_name": "com.mediacorp.sg.beritamediacorp.stagingua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:15d9ada08fd3ae88",
+        "android_client_info": {
+          "package_name": "com.mediacorp.sg.channel8news.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:477abd710b648eb1",
+        "android_client_info": {
+          "package_name": "com.mediacorp.sg.channel8news.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-ojqklt84mbq0j2980qd5pi9qqvrbq1q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mediacorp.sg.channel8news.staging",
+            "certificate_hash": "bdfd4c65db48f197df5510b4f131f12d2f479517"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:d0a2bdeb44d169a147384b",
+        "android_client_info": {
+          "package_name": "com.mediacorp.sg.crisisalertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:b705af39e12427e047384b",
+        "android_client_info": {
+          "package_name": "com.mediacorp.sg.seithimediacorp.stagingua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:1c4a6e91c2d9e9dd",
+        "android_client_info": {
+          "package_name": "com.oepw.oneflexi.android.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-jn6lf9mu3b65hokoj353ss8jvfh48t24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oepw.oneflexi.android.member",
+            "certificate_hash": "f451f6d4b934ee4a03975fb711e8a4f179f64a28"
+          }
+        },
+        {
+          "client_id": "298811971218-sg6kflnjaa7iqv0gr19maucgn4p7lqb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oepw.oneflexi.android.member",
+            "certificate_hash": "d1a40ff8159ceaf6cce922f6754a582dfb242a9f"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:4a81547bc2903e2a47384b",
+        "android_client_info": {
+          "package_name": "com.sg.mc.android.itoday.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1ggm9lfbscogchm0nkf05b2ak2dmrsj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sg.mc.android.itoday.staging",
+            "certificate_hash": "39a19593334b09e0d263d775f6b29910cda3257b"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:fc10d56041298e89",
+        "android_client_info": {
+          "package_name": "net.meradio.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-8igeacj6hdge0di30el7jv32ouk47uks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.meradio.staging",
+            "certificate_hash": "b11ec3f906622cf13538c6f3ccd58d64175a15a5"
+          }
+        },
+        {
+          "client_id": "298811971218-dq4d4n3rb1dneppn511247tlr81aoqt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.meradio.staging",
+            "certificate_hash": "a465d3cc2e8de270e341bc20339769114911bd4a"
+          }
+        },
+        {
+          "client_id": "298811971218-lo1ku9a676rudi0bjv5rf9139btddu5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.meradio.staging",
+            "certificate_hash": "87bc6c6ab70a7c9909974170e81ec0b6eea1e0c6"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:ddb0fb0e19eb4f85",
+        "android_client_info": {
+          "package_name": "sg.mediacorp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-3no4uld5k8q4fgniidb1cno0lf2ngrm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.mediacorp.android",
+            "certificate_hash": "9aa746b0210a8d35c034333ca76b0ed25783c73f"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:4a503f34731a3a2f47384b",
+        "android_client_info": {
+          "package_name": "sg.mediacorp.android.preprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-ci142fg0g4ugvbq197j7jcu6au79sv05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.mediacorp.android.preprod",
+            "certificate_hash": "4388bda96e8ce712087a6909c27f872fcea9e82f"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:bb0621fdb32b3f0347384b",
+        "android_client_info": {
+          "package_name": "sg.mediacorp.android.preprod.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:d4feb6325e41ad6a",
+        "android_client_info": {
+          "package_name": "sg.toggle.preso.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:419d0d84947115e1",
+        "android_client_info": {
+          "package_name": "sg.toggle.preso.alpha.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:71dc5e53d684dab947384b",
+        "android_client_info": {
+          "package_name": "sg.toggle.preso.sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-c9abdkdnkimc1r49b6im6jo7rpj6jj9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sg.toggle.preso.sandbox",
+            "certificate_hash": "4388bda96e8ce712087a6909c27f872fcea9e82f"
+          }
+        },
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298811971218:android:35f60c103c9dbdb447384b",
+        "android_client_info": {
+          "package_name": "sg.toggle.preso.sandbox.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOG5bSeo8r82kfZpeXK8Mq1HF77pytH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298811971218-1k74hhcqro9qs81e39n4ho4fs6iked1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298811971218-8i7eu0gtdk4ori79c69vmn3op6e393g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediacorp.MeclubPlus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
